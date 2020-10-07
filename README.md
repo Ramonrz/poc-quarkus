@@ -2,6 +2,8 @@
 
 > Proof of Concept to demonstrate the use of the Quarkus Java framework.
 
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
 > This project uses the following technologies:
 
 - Java 11
